@@ -3,7 +3,7 @@
   <!---
   <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
   --->
-  Hi, I'm Josiel Hernandez! 👋
+ <h3> Hi, I'm Josiel Hernandez! 👋 </h3>
 
   🔥 FrontEnd Developer
 
