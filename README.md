@@ -3,6 +3,10 @@
   <!---
   <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
   --->
+  <a href="https://josielhernandez.gatsbyjs.io">
+    <img alt="Gatsby" src="https://josielhernandez.gatsbyjs.io/static/1d7fc9a6e393b834e714b2db3a9b4700/5dea8/logo.png" width="60" />
+  </a>
+  
  <h3 align="center"> Hi, I'm Josiel Hernandez! 👋 </h3>
 
   🔥 FrontEnd Developer
