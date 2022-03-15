@@ -1,9 +1,7 @@
 
 <p align="center">
-  <!---
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
-  --->
-  <a href="https://josielhernandez.gatsbyjs.io">
+
+  <a href="https://josielhernandez.gatsbyjs.io" target="_blank">
     <img alt="Gatsby" src="https://josielhernandez.gatsbyjs.io/static/1d7fc9a6e393b834e714b2db3a9b4700/5dea8/logo.png" width="60" />
   </a>
   
@@ -15,9 +13,9 @@
   
   📧 josiel.hernande.dev@gmail.com
 
-  🎨 Portfolio:https://josielhernandez.gatsbyjs.io
+  🎨 Portfolio: <a href="https://josielhernandez.gatsbyjs.io" target="_blank">https://josielhernandez.gatsbyjs.io</a>
   
-  💼 LinkedIn: https://www.linkedin.com/in/josielhernandez/
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/josielhernandez" target="_blank">https://www.linkedin.com/in/josielhernandez</a>
 </p>
 <!---
 JosielHernandezDev/JosielHernandezDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
