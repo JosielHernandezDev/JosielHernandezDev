@@ -11,7 +11,7 @@
   
   📧 josiel.hernande.dev@gmail.com
 
-  🎨 Portfolio: 
+  🎨 Portfolio: <a href="https://josielhernandez.com" target="_blank">https://josielhernandez.com</a>
   
   💼 LinkedIn: <a href="https://www.linkedin.com/in/josielhernandez" target="_blank">https://www.linkedin.com/in/josielhernandez</a>
 </p>
